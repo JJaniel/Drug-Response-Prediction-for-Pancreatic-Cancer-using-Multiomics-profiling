@@ -10,6 +10,9 @@ Pancreatic Cancer Drug Response Prediction
 Overview:
 This repository contains code and data related to a research project on predicting drug responses in pancreatic cancer using AI-driven methods.
 
+**Kindly cite my work, if you find it useful " http://doi.org/10.11591/ijeecs.v35.i2.pp1253-1262 " - Tailoring therapies: a frontier approach to pancreatic cancer with AI-driven multiomics profiling
+Janiel Jawahar, Paramasivan Selvi Rajendran**
+
 Contents:
 **Data:
 1. Copy of Datamol.ipynb - Processing drug data to get various chemical descriptors info using Datamol library. This code file also works on identifying scaffolds, common core structures
